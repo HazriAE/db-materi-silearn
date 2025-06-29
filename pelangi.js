@@ -1,4 +1,6 @@
 const pelangi = [
   "merah",
-  "jingga"
+  "jingga",
+  "kuning",
+  "hijau",
 ]

@@ -1,8 +1,6 @@
-const MateriTesting = 
-{
-  "judul": "warna",
-  "warna1": "biru"
-  "judul": "warna",
-  "warna1": "biru",
-  "warna": "coklat"
-} 
+const DosenTesting = [
+  {
+    nama: "Agung",
+    email: "agung@gmail.com"
+  }
+]

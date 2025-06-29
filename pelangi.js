@@ -1,0 +1,4 @@
+const pelangi = [
+  "merah",
+  "jingga"
+]

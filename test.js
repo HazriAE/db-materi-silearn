@@ -1,8 +1,11 @@
-const MateriTesting = 
-{
-  "judul": "warna",
-  "warna1": "biru"
-  "judul": "warna",
-  "warna1": "biru",
-  "warna": "coklat"
-} 
+const MateriTesting = [
+  {
+    judul: "Aljabar Linear",
+    bab: [
+      {
+        judul: "pengertian dan ruang lingkup",
+        subab: "Pengertian"
+      }
+    ]
+  }
+] 
